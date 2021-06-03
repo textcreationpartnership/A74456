@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act for the setting apart a day of publique thanks-giving, to be kept on Friday the twenty sixth of this instant July. Together with a declaration &amp; narrative, expressing the grounds and reasons thereof. Die Jovis, 11 Julii, 1650. Ordered by the Parliament, that this Act, together with the list of the officers and soldiers slain and taken, and the commission to the Popish bishop of Clogher, be forthwith printed and published. Hen: Scobell, Cleric. Parliamenti.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74456</idno><idno type="EEBO-CITATION">99868120</idno>
+  <idno type="VID">169056</idno>
+  <idno type="EEBO-PROQUEST">2240958761</idno>
+  
+            <idno type="STC">Thomason E1061_7</idno>
+            <idno type="STC">ESTC R209233</idno>
+            <idno type="PROQUEST">99868120</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99868120e"/>
+            <note>(EEBO-TCP ; phase 2, no. A74456)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169056)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 158:E1061[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act for the setting apart a day of publique thanks-giving, to be kept on Friday the twenty sixth of this instant July. Together with a declaration &amp; narrative, expressing the grounds and reasons thereof. Die Jovis, 11 Julii, 1650. Ordered by the Parliament, that this Act, together with the list of the officers and soldiers slain and taken, and the commission to the Popish bishop of Clogher, be forthwith printed and published. Hen: Scobell, Cleric. Parliamenti.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>p. [2], 917-926   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Edward Husband and John Field, Printers to the Parliament of England,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: 8Ap4s 8Bp2s . Also issued as part of a through-paged set with a table for the entire set added.</note>
+                  <note>Last word of first line of text: "God"; first word of line below initial: "blishment"; last word of last full line on page: "Cele-".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Fasts and feasts --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Ireland --  History --  1649-1660 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="act">
+            <pb n="917" facs="tcp:169056:1"/>
+            <head>AN ACT FOR The setting apart a Day of publique Thanks<g ref="char:EOLhyphen"/>giving, to be kept on Friday the 26<seg rend="sup">th</seg> of this instant JULY: Together with a Declaration &amp; Narrative, Expressing the <hi>GROVNDS &amp; REASONS</hi> thereof.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He mighty Wonders that God hath wrought in and for <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and the multitude of Mercies with which he hath followed the PARLIAMENT throughout, in this great Cause which they have under<g ref="char:EOLhyphen"/>taken, for Asserting and Re<g ref="char:EOLhyphen"/>covery of their Just Rights and Liberties, with the Esta<g ref="char:EOLhyphen"/>blishment of Truth and Righteousness, are always to be had in thankful Remembrance by us and our Poste<g ref="char:EOLhyphen"/>rities, and ought to endear this Commonwealth, after a most peculiar maner to seek the Lord, and become a People in whom his Soul may take delight. For he it is that hath removed our shoulders from the Burthen, and hath delivered us from Tyranny and Bondage; He hath gone forth with our Armies, and the Weapons that have been formed against us, He hath not suffered to pro<g ref="char:EOLhyphen"/>sper. A most eminent Example of this His Grace and Goodness to us, we have occasion at this time to Cele<g ref="char:EOLhyphen"/>brate
+<pb n="918" facs="tcp:169056:2"/>in respect of <hi>Ireland,</hi> where God hath not onely be<g ref="char:EOLhyphen"/>gun his saving and delivering Work, to our Admiration, and the Astonishment of all our Enemies, but hath al<g ref="char:EOLhyphen"/>most made an end, and that in a most glorious and remarkable maner; so as we may truly say, The Lord hath soon subdued our Enemies in that Nation, and turned his hand against our Adversaries; <hi>The haters of the Lord have been found lyars, and have not been able to stand in the day of Battel;</hi> but those Cruel and Blood<g ref="char:EOLhyphen"/>thirsty men have had his just Vengeance so seasonably poured out upon them, that the Innocent Blood of the many Thousands Protestants there slain since this Re<g ref="char:EOLhyphen"/>bellion, hath been Revenged and Punished upon the prime and eminent Actors of it. God (that <hi>is un<g ref="char:EOLhyphen"/>searchable in his Councels, and in his ways past finding out</hi>) having called them to a strict Accompt, and <hi>given them blood to drink,</hi> of which they were worthy, <hi>that all Nations may fear before him,</hi> and take heed how they set themselves against him and his People. It is as yet very little more then Twelve Moneths, when <hi>Dublin</hi> and <hi>London-derry</hi> were the onely considerable places in all <hi>Ireland,</hi> that remained under the Power of the Parliament; and those were so straightly block'd up and besieged by powerful Armies of the Enemies, that there was nothing left, but marvellous &amp; extraordinary appearances of God, whereby to set them free, and make passage, &amp; give footing unto the Army sent last year from hence for the reduction of that Dominion; whose progress, by the Blessing of God, hath been such, as that neither in Field nor Garison the Enemy is much considerable. The particulars of this last great Mercy given unto the Parliaments Forces under Sir <hi>Charls Coot,</hi> Lord President of <hi>Connaught,</hi> against the whole Army of Irish Rebels in <hi>Vlster,</hi> commanded by the Popish Bishop of <hi>Clogher,</hi> have been by an Express from the said Lord President, certified to the Parliament, and are summ'd up in the Narrative following, and the Letters and Papers themselves herewith, and heretofore printed and made publique.</p>
+            <pb n="919" facs="tcp:169056:2"/>
+            <p> IT having pleased God so to bless our Armies in <hi>Lemster</hi> &amp; <hi>Munster,</hi> that the enemy durst no longer keep the Field in those parts, The Irish Rebels (having reduced them<g ref="char:EOLhyphen"/>selves into a Body meerly Popish, putting all Protestants, of what quality soever, from amongst them, and till when, they thought themselves less capable of Success or any Blossing) look'd upon the Province of <hi>Vlster</hi> as the fittest Refuge for their preservation and subsistence, where the Parliaments Forces lay scattered in smallest propor<g ref="char:EOLhyphen"/>tion, and (as the nature of that large Countrey required) at greatest distances, and where the Countrey was well-near wholly at their Devotion, the Papists (which in those parts are the most zealous, and therefore the first in the Rebellion, and most bloody in the Execution) upon their own account entirely, and the Scots upon their Kings, by whose Authority, and for whose Service this Army was raised; and therefore as by the last years ex<g ref="char:EOLhyphen"/>perience they were sure of the Scots upon that Common Interest, so for their encouragement now, they did by many Declarations disperst amongst the Scots, assure them of Security and Protection, if they continued to own the said Kings Authority. These Forces, which upon the death of <hi>Owen Roe O Neal,</hi> were destitute of a Comman<g ref="char:EOLhyphen"/>der, were supplied with <hi>Ever mac Mahon</hi> Bishop of <hi>Clogher,</hi> by Commission from <hi>Ormond,</hi> Authorized thereunto by <hi>Charls Stuart,</hi> Eldest Son to the late King, into whose Service and Protection they were taken, by a Treaty mentioned in the said Commission it self of the said <hi>Or<g ref="char:EOLhyphen"/>monds,</hi> herewith Printed.</p>
+            <p>This is that Army, which while it was under the Con<g ref="char:EOLhyphen"/>duct of <hi>Owen Roe</hi> the last year, did occasion some jealou<g ref="char:EOLhyphen"/>sies and reproaches upon the Proceedings of this present Parliament, as if they had been taken into their Service, and that such bloody Rebels should have been made use of against the Protestant Party of English and Scots, then under the Command of <hi>Ormond</hi> and <hi>Monroe,</hi> that had
+<pb n="920" facs="tcp:169056:3"/>declared themselves against the Parliament of <hi>England,</hi> as Sectaries, and Murtherers of the late King: And great use was made thereof by Ministers and others, not affect<g ref="char:EOLhyphen"/>ed to this present Government, to alienate the mindes of men from their duty to this Parliament, and foment new Distractions and Divisions amongst us. But as we did then in the sight of God and sincerity of our hearts, vin<g ref="char:EOLhyphen"/>dicate our innocency in reference to any such Designs, as by the Votes we then passed doth appear; so the vigorous and constant opposition all along maintained against them, and the thorow execution now done by our For<g ref="char:EOLhyphen"/>ces upon them, gives an undenyable evidence of our clearness therein, and leaves to future Ages, the marks of our just Indignation against them. This Army pro<g ref="char:EOLhyphen"/>vided of this General about the end of <hi>May</hi> last, fell down into Sir <hi>Charls Coot</hi>'s Quarters, and presently took by storm a place upon the Frontier of <hi>Vlster,</hi> called <hi>Dunge<g ref="char:EOLhyphen"/>ven,</hi> where they put all to the Sword, except the Gover<g ref="char:EOLhyphen"/>nor, whom they sent dangerously wounded to <hi>Charle<g ref="char:EOLhyphen"/>mont;</hi> from thence they marched to <hi>Bally</hi> Castle, which was presently surrendred to them without opposition, by the treachery of some therein. These successes exceed<g ref="char:EOLhyphen"/>ingly puft up the Rebels, and made them considerable, not in their own eyes onely, but to the judgement of <hi>Ormond, Clanrikard,</hi> and the rest of their Party, who therefore advise their General, by all means to keep off from putting things to the hazard of a Battel, having hopes upon this foundation, and by the well managing of this so well begun Success, to recover again, not onely their late Interest in, but the whole Dominion of <hi>Ire<g ref="char:EOLhyphen"/>land:</hi> For though the Army in effective force did not con<g ref="char:EOLhyphen"/>sist of above Six hundred Horse and Four thousand Foot, yet they were reckoned Fourteen Regiments of Foot, and had Officers of all degrees proportionable to that number, which by their Interest in the Countrey as aforesaid, and by the countenance of these successful be<g ref="char:EOLhyphen"/>ginnings, they might reasonably promise themselves; &amp; by
+<pb n="921" facs="tcp:169056:3"/>them upon the place it is belived, that within a very few days they would have gathered in a force of Soldiers, an<g ref="char:EOLhyphen"/>swerable to those Officers: In the mean time, all the force that the Lord President of <hi>Connaught</hi> could draw into the Field to resist this powerful inroad (leaving the Gari<g ref="char:EOLhyphen"/>sons tollerably provided for) was but Eighteen hundred Foot, and Six hundred Horse, whereof One thousand Foot came up to him under Colonel <hi>Fenwick,</hi> but three days before he engaged the Enemy: But <hi>England</hi> may say as well as Israel, <hi>It is as easie with the Lord to save with few as with many;</hi> who was pleased to put such zeal and cou<g ref="char:EOLhyphen"/>rage into the Soldiers of the Parliament, that on the One and twentieth of June last, they marched up to<g ref="char:EOLhyphen"/>wards this Army (so exceeding them in number, and heightned Resolution by late successes) as it lay Encamp<g ref="char:EOLhyphen"/>ed near <hi>Letterkenny</hi> upon the side of a Mountain, in<g ref="char:EOLhyphen"/>accessible either for Horse or Foot; upon sight of which, the Enemy drew forth upon a piece of ground (being in<g ref="char:EOLhyphen"/>deed inticed thereunto by the giving back of some of our Forlorn-Hopes (ordered for that purpose so to do) and though that ground were extreamly bad, yet it pleased God to put it into the hearts of our Forces, with that small Body to advance towards them, where they pre<g ref="char:EOLhyphen"/>sently engaged them, and by the wonderful blessing of God, after an hours hot dispute, even to push of Pike, with great resolution on both sides, the Enemy was to<g ref="char:EOLhyphen"/>tally Routed, many of them killed upon the place, and the Execution pursued ten or eleven Miles every way that night; so as the number computed to be slain that day in the pursuit, and the next day, was Three thousand at the least, in which Action were slain and taken Prisoners most of their Officers, from, the highest to the lowest, few escaping; and many of the Heads of the principal Septs or Families in that Countrey of the old Irish Rebels, some of whom are since Executed, and their Heads set upon the Walls of <hi>London-Derry,</hi> for the terror of others, and as Monuments of Gods goodness in their over<g ref="char:EOLhyphen"/>throw,
+<pb n="922" facs="tcp:169056:4"/>the most considerable of all which, so far as they were then discovered and known, are set forth in the List herewith printed. There were also taken in that glorious Day, all their Arms, Ammunition; Colours, Bag and Baggage, and most of their Horse; and though their General the Bishop got off with a Party, yet he was met with (so sure doth Divine Justice pursue, and overtake the men of Blood) and taken by Major <hi>King</hi> and his Troops near <hi>Eniskellen,</hi> whose Head was also sent for by Sir <hi>Charls,</hi> to accompany the rest of his wicked Ac<g ref="char:EOLhyphen"/>complices at <hi>Derry.</hi> In this day of <hi>Vlsters</hi> Danger and Distress, it might reasonably have been expected, That the Scots (who notwithstanding their general defection from the Parliament to the contrary Party the last year, had yet enjoyed Peace and Protection from us) would have come out against this perfectly-Popish Army, and <hi>help the</hi> LORD <hi>against the mighty;</hi> but such was their in<g ref="char:EOLhyphen"/>gratitude, and so great their hatred to them whom they term Sectaries, above what they bear to the worst of Pa<g ref="char:EOLhyphen"/>pists, and the most bloody Rebels, as that they sate Neu<g ref="char:EOLhyphen"/>tral all the while, as reserving themselves to declare, and fal in with the Conqueror, which they also did accordingly.</p>
+            <p>In all this Business, the loss on our side was very small, so mercifully <hi>did the</hi> LORD <hi>cover the heads of his servants in the day of Battel;</hi> so as onely Captain <hi>Sloper</hi> of Colonel <hi>Venables</hi> Regiment, with eleven or twelve private Soldiers, were slain, and Colonel <hi>Fenwick,</hi> Major <hi>Gore,</hi> Captain <hi>Gore,</hi> and an Ensign, with some few others, wounded: And it is a thing most worthy Observation, That those who first began the Rebellion in that very Countrey of <hi>Vlster,</hi> and where they executed most Cruelty and In<g ref="char:EOLhyphen"/>humanity, should be reserved for Gods Vengeance to be poured out upon them in that place; so that we may justly say, <hi>Who is a</hi> GOD <hi>like our</hi> GOD, <hi>our enemies them<g ref="char:EOLhyphen"/>selves being Iudges!</hi> To him alone therefore be the Praise and the Glory.</p>
+            <p>Nor was this great Mercy more Wonderful then Sea<g ref="char:EOLhyphen"/>sonable,
+<pb n="925" facs="tcp:169056:4"/>in regard of the terms wherein we stand to <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> and the Necessity of our Armies marching thither, amongst other things, for pursuing the Head of this Ar<g ref="char:EOLhyphen"/>my of Popish and Irish Rebels, CHARLS STUART, Eldest Son of the late King, who being beaten out from his Confidences and Intimacies with the Popish Army in <hi>Ireland,</hi> by the wonderful Success which God hath been pleased to give our Army this year and the last, hath now no other Refuge left him but <hi>Scotland,</hi> where his hopes are (<hi>Montross</hi> also having run out his course, upon whose Assistance 'tis known he most affectionately de<g ref="char:EOLhyphen"/>pended) to do that by Stratagem and Deceit, with the Reformed Party, which he could not carry on by Force and Power, by means of the Popish Rebels, and purely Malignant Party; And thinks now, under the fair Vi<g ref="char:EOLhyphen"/>zard of Reformation and the Covenant (which he hath swallowed, like ill-pleasing Physick, for a desperate Cure) to raise up a Party for himself in this Nation also, for the Rooting up this present Government, and with it the English Liberty, Purchased at so high a Rate, and what<g ref="char:EOLhyphen"/>ever else is near and dear to honest and good men: But the same God, who is mighty in Strength, and also wise in heart, and having shewn himself in Power to subdue open Enemies, will not suffer his Arm to be shortned, in his going forth against Hypocrites and false Friends, that he in all may be glorified, and his Praise spread abroad throughout the whole Earth.</p>
+            <p>
+               <hi>UPon consideration of all which, together with the taking of</hi> Trecroghan <hi>about the same time, and other prosperous proceed<g ref="char:EOLhyphen"/>ings of our Forces in</hi> Ireland, <hi>The Parliament, for manifestation of their high and extraordinary Sense of so signal and seasonable Mercies, have thought it sit, and their duty, to set apart a time for publique and solemn Thanksgiving, to be rendred to the Lord, the Author of these Mer<g ref="char:EOLhyphen"/>cies:
+<pb n="924" facs="tcp:169056:5"/>And they do therefore Enact and Ordain, That</hi> Friday <hi>the Twenty sixth of</hi> July, <hi>be obser<g ref="char:EOLhyphen"/>ved and kept as a Day of publique and holy Re<g ref="char:EOLhyphen"/>joycing and Thanksgiving to the Lord, in all the Churches and Chappels, and places of Divine worship within this Commonwealth of</hi> England, <hi>Dominion of</hi> Wales, <hi>and Town of</hi> Berwick <hi>upon</hi> Tweed; <hi>And that the Ministers of the respective Parishes and places aforesaid, be, and hereby they are Required and Enjoyned to give notice on the Lords-Day next preceding the said Twenty sixth of</hi> July, <hi>of the day so to be observed; to the end the People of their several Congrega<g ref="char:EOLhyphen"/>tions may the more generally and diligently at<g ref="char:EOLhyphen"/>tend the publique Exercises of Gods Worship and Service there to be dispensed upon that occasion; At which time, that the People may be the more particularly and fully informed of this great Deliverance and Success, the said Ministers are hereby Required, and (under the Penalty set down in the</hi> Resolves of Parliament <hi>of the Ninth day of</hi> July, <hi>One thousand six hundred forty nine) En<g ref="char:EOLhyphen"/>joyned to publish and reade this present Act and Declaration. And for the better observation of the day, the Parliament doth hereby inhibit and for<g ref="char:EOLhyphen"/>bid the holding or use of all Fairs, Markets, and servile works of mens ordinary Callings upon that day: And all Majors, Sheriffs, Iu<g ref="char:EOLhyphen"/>stices of Peace, Constables, and other Offi<g ref="char:EOLhyphen"/>cers, be, and are hereby Enjoyned to take espe<g ref="char:EOLhyphen"/>cial care of the due observance of the said day of Thanksgiviving accordingly.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="list_of_casualties">
+            <pb n="925" facs="tcp:169056:5"/>
+            <head>A LIST OF Such Officers and Soldiers of the Army Com<g ref="char:EOLhyphen"/>manded by the Tituler Bishop of <hi>Clogher,</hi> Commander in Chief of the Army of the Irish Rebels, as were slain and taken in the Fields of <hi>Scarfollis</hi> the 21<seg rend="sup">th</seg> of June, 1650. and upon the Pursuit being known to our ARMY.</head>
+            <p>THe Bishop of <hi>Clogher</hi> Pri<g ref="char:EOLhyphen"/>soner.</p>
+            <list>
+               <head>Killed.</head>
+               <item>The Lord of <hi>Eniskellen,</hi> Col.</item>
+               <item>The Bishop of <hi>Down.</hi>
+               </item>
+               <item>
+                  <hi>Shane O Cane</hi> Major General.</item>
+               <item>
+                  <hi>Henry Roe O Neil</hi> Gen. <hi>O Neil</hi> his Son Colonel of Horse.</item>
+               <item>
+                  <hi>Nice mac Collehittagh</hi> Colonel.</item>
+               <item>
+                  <hi>Hugh mac Guier</hi> Colonel.</item>
+               <item>
+                  <hi>Phelemy mac Tool O Neal</hi> Col.</item>
+               <item>
+                  <hi>Hugh mac Maghan</hi> Colonel.</item>
+            </list>
+            <list>
+               <head>Lieut: Colonels killed,</head>
+               <item>
+                  <hi>Torlogh O Boyle.</hi>
+               </item>
+               <item>
+                  <hi>Shane mac Donnel.</hi>
+               </item>
+               <item>
+                  <hi>Shane mac Donnel.</hi>
+               </item>
+               <item>
+                  <hi>James O Donnally.</hi>
+               </item>
+               <item>
+                  <hi>Shane O Haggan</hi> prisoner.</item>
+               <item>
+                  <hi>Henry O Neil</hi> prisoner.</item>
+               <item>Quarterm. Gen. <hi>Saxton</hi> prisoner.</item>
+               <item>
+                  <hi>Phelemy O Neal</hi> Adjutant Gen.</item>
+               <item>
+                  <hi>Torlogh O Neal</hi> Adjutant Gen.</item>
+            </list>
+            <list>
+               <head>Majors,</head>
+               <item>
+                  <hi>Phelemy O Neal.</hi>
+               </item>
+               <item>
+                  <hi>Donnel O Neal.</hi>
+               </item>
+               <item>
+                  <hi>Emer mac Guillon.</hi>
+               </item>
+               <item>
+                  <hi>John mac Guier.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Captains of Horse killed,</head>
+               <item>
+                  <hi>Artoge O Neal.</hi>
+               </item>
+               <item>
+                  <hi>Coll mac Maghan.</hi>
+               </item>
+               <item>
+                  <hi>Mull Holland.</hi>
+               </item>
+               <item>
+                  <hi>O Guire.</hi>
+               </item>
+               <item>
+                  <hi>Farrel.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Captains of Foot,</head>
+               <item>
+                  <hi>Stewart.</hi>
+               </item>
+               <item>
+                  <hi>Fergus Farrel.</hi>
+               </item>
+               <item>
+                  <hi>Bryan O Neal.</hi>
+               </item>
+               <item>
+                  <hi>Owen O Guire.</hi>
+               </item>
+               <item>
+                  <hi>George Russel.</hi>
+               </item>
+               <item>
+                  <hi>James mac Cartain.</hi>
+               </item>
+               <item>
+                  <hi>Patrick O Connally.</hi>
+               </item>
+               <item>
+                  <hi>Donnel mac Guier.</hi>
+               </item>
+               <item>
+                  <hi>Gollagher.</hi>
+               </item>
+               <item>
+                  <hi>Bryan mac Gill.</hi>
+               </item>
+               <item>
+                  <hi>Teige oge mac Hugh.</hi>
+               </item>
+               <item>
+                  <hi>Mac oge O Guine.</hi>
+               </item>
+               <item>
+                  <hi>Cormache O Mullan.</hi>
+               </item>
+               <item>
+                  <hi>Henry Benalds.</hi>
+               </item>
+               <item>
+                  <hi>Conagher.</hi>
+               </item>
+               <item>Three Priests and Fryars killed.</item>
+            </list>
+            <p>With several other Field-Officers, Captains, Lieutenants, Ensigns, which we know not; and Three thousand private Soldiers, with all their Ammunition, Colours, Arms, Bag and Baggage.</p>
+         </div>
+         <div type="copy_of_commission">
+            <pb n="926" facs="tcp:169056:6"/>
+            <head>A Copy of the Commission under the Hand and Seal of the Lord <hi>Ormond</hi> to the Bishop of <hi>Clogher;</hi> The Original whereof was taken, and sent over to the Parliament.</head>
+            <opener>
+               <signed>James <hi>Marquis of</hi> Ormond, <hi>Earl of</hi> Ormond <hi>and</hi> Ossory, <hi>Viscount</hi> Thurles, <hi>Lord Baron of</hi> Arclo, <hi>Lord Lieutenant General, and Ge<g ref="char:EOLhyphen"/>neral Governor of the Kingdom of</hi> Ireland, <hi>Chancellor of the Uni<g ref="char:EOLhyphen"/>versity of</hi> Dublin, <hi>and Knight of the most Noble Order of the Garter.</hi>
+               </signed>
+               <salute>To Our Trusty and Welbeloved, Bishop <hi>Ever mac Mahon. ORMOND.</hi>
+               </salute>
+            </opener>
+            <p>WHereas upon the Treaty with General <hi>Owen O Neile</hi> de<g ref="char:EOLhyphen"/>ceased, it was (amongst other particulars) concluded and agreed upon, That in case of the death or removal of him, such other General, or Commander in chief, should be au<g ref="char:EOLhyphen"/>thorized by Commission from us, to Command his Majesties Forces of the Province of <hi>Ulster,</hi> Natives of the Kingdom, as should be by general consent of the Gentry of that Province elected and made choyce of for the same. And whereas in a general meeting, lately held by the said Gentry for that purpose, it was agreed upon, and so repre<g ref="char:EOLhyphen"/>sented unto us, That you should exercise that Command over the said forces: We therefore, upon consideration thereof, and of the Care, Iudgement, Valor and Experience in Martial affairs, as also of the readiness and good affections of you, to do his Majesty good and ac<g ref="char:EOLhyphen"/>ceptable service, Have nominated and appointed, and we do hereby nominate and appoint you the said Bishop <hi>Ever mac Mahon,</hi> to be Ge<g ref="char:EOLhyphen"/>neral of all his Majesties said forces of horse and foot of the Province of <hi>Ulster,</hi> Natives of the Kingdom; Giving hereby unto you the said Bishop <hi>Ever mac Mahon,</hi> full power and authority to take the said charge and employment upon you, and the said forces and every of them to lead and command, according to the use and Discipline of War, and such further Order and Instructions, as you shall from time to time receive from us, or other his Majesties chief Governor or Governors of this Kingdom for the time being in that behalf; Willing, and hereby requiring all the Officers, Troopers and Soldiers of the said forces, to obey you as their General, and to be at and perform your Commands, as they shall issue unto them upon all occasions of his Majesties service, as they will answer the contrary.</p>
+            <closer>
+               <dateline>In witness where<g ref="char:EOLhyphen"/>of we have Signed this your Commission, and caused our Seal of Arms to be thereunto affixed at <hi>Loghreogh</hi>
+                  <date>the first day of <hi>April,</hi> 1650.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="order_to_print">
+            <opener>
+               <dateline>
+                  <date>Die Jovis, 11 Julii, 1650.</date>
+               </dateline>
+            </opener>
+            <p>ORdered by the Parliament, <hi>That this Act, together With the List of the Officers and Soldiers slain and taken, and the Commission to the Popish Bishop of</hi> Clogher, <hi>be forthwith printed and published.</hi>
+            </p>
+            <closer>
+               <signed>Hen: Scobell, Cleric. Parliamenti.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
